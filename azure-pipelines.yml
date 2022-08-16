@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
- Prakash
+  Prakash
 
 steps:
 - script: echo Hello, world!
